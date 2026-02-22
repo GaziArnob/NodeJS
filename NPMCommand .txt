@@ -1,0 +1,10 @@
+npm init
+npm install 
+npm install<package_name>[-g,--save-dev,--no-save,--save-optional,--no-optional]
+npm instal;<package_name>@<version>
+npm update 
+npm run<task-naem>
+npm list 
+npm view<package_name>version 
+npm uninstall<package_name>
+npm help
